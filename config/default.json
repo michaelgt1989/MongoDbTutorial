@@ -1,0 +1,3 @@
+{ 
+    "mongoURI": "mongodb+srv://michaelgt:Rileigh10@MongoDbTutorial.sclzv.mongodb.net/tutorial-app?retryWrites=true&w=majority" 
+  }
